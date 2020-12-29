@@ -406,6 +406,15 @@ h6, .h6 {
     left: 47px;
 }
 
+.quote_one {
+    background-color: black;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 11px;
+    margin-top: 32px;
+    opacity: 0.8;
+}
+
 .display-2 {
   font-size: 5.5rem;
   font-weight: 300;
